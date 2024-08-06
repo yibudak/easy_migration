@@ -4,3 +4,4 @@
 # from . import product_putaway
 # from . import stock_fixed_putaway_strat
 from . import stock_inventory
+from . import stock_warehouse
